@@ -6,7 +6,7 @@
 
 #define PMS_RX_PIN 12
 #define PMS_TX_PIN 13
-#define MQ_2_PIN A0   //gaz consentration
+#define MQ_2_PIN A0   
 /*  //more specific sensors
 #define MH_Z19C_ADDRESS 0x68   //Read CO2 concentration
 #define MQ_135_ADDRESS A0      //Read NO2 concentration
